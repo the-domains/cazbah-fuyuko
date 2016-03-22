@@ -1,0 +1,28 @@
+name: cazbah-fuyuko
+favicon: null
+layout_spectrum: 0.05767418793402612
+typography_spectrum: 0.8504788924474269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8793887398205698
+  lightness: 0.4422466738615185
+  saturation: 0.9280029970686883
+  rhythmicContrast: 0.8494216182734817
+purpose: []
